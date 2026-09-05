@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Test reports
+playwright-report/
+test-results/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
