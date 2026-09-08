@@ -18,6 +18,9 @@
 
 ---
 
+
+
+
 ## 🚀 Project Overview
 
 Mobile applications require reliable validation across different devices, operating systems and user interactions.
@@ -47,6 +50,11 @@ The objective is not simply to automate individual actions.
 
 ---
 
+
+
+
+
+
 # 🎯 Why This Project?
 
 Mobile automation becomes challenging when a test suite grows beyond a few scripts.
@@ -67,6 +75,11 @@ Test Results
 Actionable Quality Feedback
 
 This repository demonstrates that mindset through practical mobile automation scenarios and an organized platform-specific test structure.
+
+
+
+
+
 
 🏗️ Automation Approach
 
@@ -92,6 +105,23 @@ The project separates mobile automation scenarios into:
 
 This structure makes it easier to understand platform-specific coverage while keeping the overall automation strategy organized.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📱 Android Automation
 
 The Android test suite contains scenarios covering common mobile interactions.
@@ -111,6 +141,11 @@ Current Areas Covered
 🌐 WebView
 🧪 Example scenarios
 🔄 End-to-End scenarios
+
+
+
+
+
 Android Test Examples
 tests/
 └── Android/
@@ -131,6 +166,10 @@ tests/
 
 The iOS test suite contains platform-specific scenarios for mobile interactions.
 
+
+
+
+
 tests/
 └── Ios/
     ├── Alert.spec.ts
@@ -144,6 +183,11 @@ tests/
     └── swipeleftandright.spec.ts
 
 The separation between Android and iOS makes the repository easier to navigate and provides a clear view of mobile-platform coverage.
+
+
+
+
+
 
 🧪 Test Scenarios
 
@@ -208,6 +252,10 @@ This provides a clear separation between:
 
 HTML reporting makes automation results easier to inspect after execution.
 
+
+
+
+
 📂 Repository Structure
 MobileWright-Typescript---Mobile--Automation-Testing-
 │
@@ -249,6 +297,11 @@ MobileWright-Typescript---Mobile--Automation-Testing-
 ├── mobilewright.config.ts
 ├── package.json
 └── package-lock.json
+
+
+
+
+
 🛠️ Technology Stack
 Technology	Purpose
 🟦 TypeScript	Automation programming language
@@ -261,6 +314,13 @@ Technology	Purpose
 📦 npm	Dependency management
 🔧 Git	Version control
 🐙 GitHub	Source code and collaboration
+
+
+
+
+
+
+
 🧠 Quality Engineering Principles
 
 This repository follows a few important automation principles.
@@ -290,6 +350,13 @@ Test reports and execution artifacts should help engineers understand where and 
 
 A growing automation suite should remain readable, navigable and easy for another engineer to contribute to.
 
+
+
+
+
+
+
+
 🎯 Skills Demonstrated
 
 This project demonstrates practical experience in:
@@ -308,6 +375,11 @@ Test Scenario Design
 Test Execution
 Test Reporting
 Automation Framework Organization
+
+
+
+
+
 Quality Engineering
 💼 Why This Repository Matters to QA Teams
 
@@ -326,6 +398,11 @@ Can the suite provide fast feedback?
 Can the automation be maintained as the product grows?
 
 This project is built around that Quality Engineering mindset.
+
+
+
+
+
 
 🚀 Getting Started
 1. Clone the Repository
@@ -351,6 +428,11 @@ npx playwright test
 
 Execution may require the appropriate mobile environment, device/emulator/simulator configuration and project-specific setup.
 
+
+
+
+
+
 📊 Reporting
 
 After execution, review generated artifacts in:
@@ -363,26 +445,11 @@ test-results/
 
 These directories can be used to investigate test execution and failures.
 
-🔮 Future Enhancements
 
-Potential areas for expanding this project include:
 
-📱 Broader Android device coverage
-🍎 Broader iOS device coverage
-🔄 Cross-platform test execution
-🧩 Page Object / Screen Object patterns
-♻️ Reusable mobile components
-📊 Enhanced reporting
-🔁 CI/CD integration
-☁️ Cloud device execution
-🐳 Containerized test execution where applicable
-🔀 Parallel test execution
-🧪 Expanded end-to-end scenarios
-📸 Screenshot and video artifacts
-🔍 Failure diagnostics
-🤖 AI-assisted mobile test generation
-🧠 AI-assisted test failure analysis
-📌 Project Status
+
+
+
 
 🚧 Active Mobile Automation & Quality Engineering Project
 
@@ -400,6 +467,14 @@ If you find this project useful:
 💬 Share feedback
 🐛 Report issues
 🔗 Share it with the QA community
+
+
+
+
+
+
+
+
 👨‍💻 About Me
 Arpit Choubey
 
@@ -424,6 +499,9 @@ Automation Framework Development
 
 I enjoy building practical automation projects and exploring how modern tools and AI can improve software quality, engineering feedback and test automation.
 
+
+
+
 🔗 Connect With Me
 💻 GitHub
 
@@ -441,6 +519,11 @@ I regularly share practical content around:
 
 QA Automation • Selenium • Cypress • Playwright • API Testing • Mobile Testing • AI Testing • Agentic AI • Quality Engineering
 
+
+
+
+
+
 ⭐ Support
 
 If this repository helped you learn something about mobile automation:
@@ -454,6 +537,10 @@ If this repository helped you learn something about mobile automation:
 🤝 Connect with me
 
 Your feedback helps me continue building and sharing practical Quality Engineering projects.
+
+
+
+
 
 💬 Engineering Philosophy
 
